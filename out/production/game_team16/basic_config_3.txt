@@ -1,0 +1,4 @@
+game3.txt
+1
+1
+normal
